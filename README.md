@@ -124,6 +124,7 @@ git push
 ```md
 # Cambio en GitHub
 * Este cambio fue hecho directamente en GitHub
+
 ```
 * Haz Commit del cambio directamente en la interfaz web de GitHub (usando el botón "Commit changes")
 * **Atención**: El repositorio en GitHub tiene un commit que tu máquina local aún no tiene.
@@ -135,3 +136,5 @@ git push
 25. Verificar la integración del Cambio
 
 * Abrir el archivo README.md y verificar que la línea que agregaste en GitHub
+
+Este texto fue echo por el usuario JuanDeDios212 directamente desde GitHub
